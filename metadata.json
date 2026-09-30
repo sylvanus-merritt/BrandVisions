@@ -1,0 +1,10 @@
+{
+  "name": "Brand Builder",
+  "description": "Create marketing campaigns across multiple mediums for your product.",
+  "permissions": {
+    "shortLivedNetworkToken": true
+  },
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
